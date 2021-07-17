@@ -13,7 +13,7 @@
         "option4": "The sum of direct labour cost, direct expenses and all factory overhead costs"
     },
     {
-        "number": 1,
+        "number": 2,
         "question": "The method of costing used in a refinery is _______ costing.",
         "answer": 2,
         "option1": "Batch",
@@ -22,7 +22,7 @@
         "option4": "Job"
     },
     {
-        "number": 1,
+        "number": 3,
         "question": "Cost Unit is defined as:",
         "answer": 1,
         "option1": "Unit of quantity of product, service or time in relation to which costs may be ascertained or expressed",
@@ -30,5 +30,5 @@
         "option3": "Centres having the responsibility of generating and maximising profits",
         "option4": "Centres concerned with earning an adequate return on investment"
     }
-    ]
+  ]
 }
