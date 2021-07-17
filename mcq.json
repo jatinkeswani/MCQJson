@@ -1,0 +1,34 @@
+{
+  "gameName": "CA Test",
+  "gameID": "104",
+  "totalQuestions": 8,
+  "questions": [
+    {
+        "number": 1,
+        "question": "The term “conversion costs” refer to:",
+        "answer": 4,
+        "option1": "Manufacturing costs incurred to produce unit of output",
+        "option2": "All costs associated with manufacturing other than direct labour costs and raw material cost",
+        "option3": "Costs which are associated with marketing, shipping, warehousing, and billing activates",
+        "option4": "The sum of direct labour cost, direct expenses and all factory overhead costs"
+    },
+    {
+        "number": 1,
+        "question": "The method of costing used in a refinery is _______ costing.",
+        "answer": 2,
+        "option1": "Batch",
+        "option2": "Process",
+        "option3": "Multiple",
+        "option4": "Job"
+    },
+    {
+        "number": 1,
+        "question": "Cost Unit is defined as:",
+        "answer": 1,
+        "option1": "Unit of quantity of product, service or time in relation to which costs may be ascertained or expressed",
+        "option2": "A location, person or an item of equipment or a group of these for which costs are ascertained and used for cost control.",
+        "option3": "Centres having the responsibility of generating and maximising profits",
+        "option4": "Centres concerned with earning an adequate return on investment"
+    }
+    ]
+}
