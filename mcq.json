@@ -1,7 +1,7 @@
 {
   "gameName": "CA Test",
   "gameID": "104",
-  "totalQuestions": 3,
+  "totalQuestions": 6,
   "questions": [
     {
         "number": 1,
@@ -14,6 +14,15 @@
     },
     {
         "number": 2,
+        "question": "A manufacturer buys certain equipment from outside suppliers at Rs. 20 per unit. Total annual needs are 900 units. The further data are available:\nAnnual return of investment - 10%\nRent, Taxes, insurance per unit per year - Rs. 2\nCost of placing an order - Rs. 200\nDetermine the economic order quantity.",
+        "answer": 4,
+        "option1": "600",
+        "option2": "500",
+        "option3": "400",
+        "option4": "300"
+    },
+    {
+        "number": 3,
         "question": "The method of costing used in a refinery is _______ costing.",
         "answer": 2,
         "option1": "Batch",
@@ -22,13 +31,31 @@
         "option4": "Job"
     },
     {
-        "number": 3,
+        "number": 4,
         "question": "Cost Unit is defined as:",
         "answer": 1,
         "option1": "Unit of quantity of product, service or time in relation to which costs may be ascertained or expressed",
         "option2": "A location, person or an item of equipment or a group of these for which costs are ascertained and used for cost control.",
         "option3": "Centres having the responsibility of generating and maximising profits",
         "option4": "Centres concerned with earning an adequate return on investment"
+    },
+    {
+        "number": 5,
+        "question": "A 10 ton truck travels between city A and B. It makes 4 round trips a day of 20 kms each. The truck is fully loaded on outward journey and returns empty. In the month of April, there are 4 Sundays on which truck doesn’t work. On 20th April, truck was off the road due to strike. Find normal effective ton-km for month of April.",
+        "answer": 2,
+        "option1": "41,600",
+        "option2": "20,800",
+        "option3": "20,000",
+        "option4": "40,000"
+    },
+    {
+        "number": 6,
+        "question": "A written order sent to inform the purchasing department of a need for materials is called:",
+        "answer": 2,
+        "option1": "Purchase order",
+        "option2": "Purchase requisition",
+        "option3": "Receiving report",
+        "option4": "Material requisition form"
     }
   ]
 }
