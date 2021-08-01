@@ -1,6 +1,7 @@
 {
   "gameName": "CA Test",
   "gameID": "104",
+  "timePerQuestion": 15,
   "totalQuestions": 6,
   "questions": [
     {
